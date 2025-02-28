@@ -24,9 +24,7 @@ An advanced machine learning solution for detecting fraudulent credit card trans
 ## 📊 Model Details
 - Algorithm: XGBoost Classifier
 - Training Method: Supervised Learning
-- Dataset Split: 80-20 (Train-Test)
-- Cross-validation: 5-fold
-
+- 
 ## 🛠️ Technologies Used
 - Python3
 - XGBoost
